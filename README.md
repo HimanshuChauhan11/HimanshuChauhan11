@@ -1,7 +1,7 @@
 ### Hi there, **I'm Himanshu** - 👋
 
 
-## I'm a Full-Stack Developer, and Student!!
+## I'm a Salesforce Developer, and coding lover!!
 
 - 👋 Hi, I’m @HimanshuChauhan11
 - 👀 I’m in love with JavaScript
