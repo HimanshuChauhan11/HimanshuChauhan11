@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @HimanshuChauhan11
 - 👀 I’m in love with JavaScript
-- 🌱 I’m currently learning New Things...
+- 🌱 I'm a full time Salesforce Developer
 - 💞️ I’m looking to collaborate on ...
 
 ## My Skills 
